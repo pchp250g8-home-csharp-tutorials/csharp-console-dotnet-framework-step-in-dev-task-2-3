@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Task-2-3.txt" />
+  </Folder>
+  <Project Path="Task-2-3-en/Task-2-3-en.csproj" />
+  <Project Path="Task-2-3-ru/Task-2-3-ru.csproj" />
+</Solution>
