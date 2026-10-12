@@ -2,6 +2,6 @@
   <Folder Name="/Solution Items/">
     <File Path="Task-2-3.txt" />
   </Folder>
-  <Project Path="Task-2-3-en/Task-2-3-en.csproj" />
-  <Project Path="Task-2-3-ru/Task-2-3-ru.csproj" />
+  <Project Path="Task-2-3-en/Task-2-3-en.csproj" Id="e9228cc6-d557-4d4f-a191-f62484cbcba2" />
+  <Project Path="Task-2-3-ru/Task-2-3-ru.csproj" Id="6dd08f73-59c8-47b3-bff7-df9fe4fd386e" />
 </Solution>
